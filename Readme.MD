@@ -1,3 +1,5 @@
-###Python Course
+Python Course
+============
 
-First Steps
+## First Steps ##
+
